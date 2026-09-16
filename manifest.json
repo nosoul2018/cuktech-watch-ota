@@ -1,8 +1,8 @@
 {
   "hardware": "esp32-c3-cuktech-watch",
   "channel": "watch",
-  "version": "0.2.1-watch",
-  "url": "https://nosoul2018.github.io/cuktech-watch-ota/firmware/0.2.1-watch/firmware.bin",
-  "size": 1781104,
-  "sha256": "e32a8d3400e59c6eab6503fd9055c840195027aa70dc164f9ffe095d29a81739"
+  "version": "0.2.2-watch",
+  "url": "https://nosoul2018.github.io/cuktech-watch-ota/firmware/0.2.2-watch/firmware.bin",
+  "size": 1781584,
+  "sha256": "c06426cc3c92d05446444c1ab9957def39936fa977112d74613d1f021f55566b"
 }
